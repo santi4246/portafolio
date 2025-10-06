@@ -31,6 +31,15 @@ const allProjects: Project[] = [
         demo: "https://snykers.vercel.app/",
         code: "#",
     },
+    {
+        title: "Blog de páginas en Django",
+        description: "Panel visual con páginas y artículos creados desde el panel de administrador.",
+        details: "Blog sencillo que consta de un menú navbar para el recorrido de páginas, formulario de registro e inicio de sesión. La creación de páginas se realiza desde el panel de administrador y se sirve todo desde el backend.",
+        image: "/projects/blog.png",
+        tech: ["Python", "Django", "S3 Bucket AWS", "MySql"],
+        demo: "https://project-blog-django.onrender.com",
+        code: "https://github.com/santi4246/project-blog-django",
+    },
     // Agregá más proyectos
 ];
 
